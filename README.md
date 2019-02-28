@@ -39,3 +39,5 @@ Latihan 6
 ![alt text](https://github.com/ronakamilia27rpl/LatihanPHPModul6/blob/master/latihan6.1.png)
 ![alt text](https://github.com/ronakamilia27rpl/LatihanPHPModul6/blob/master/latihan6.3.png)
 ![alt text](https://github.com/ronakamilia27rpl/LatihanPHPModul6/blob/master/latihan6.4.png)
+praktkum
+![alt text](https://github.com/ronakamilia27rpl/LatihanPHPModul6/blob/master/Screenshot%20(371).png)
